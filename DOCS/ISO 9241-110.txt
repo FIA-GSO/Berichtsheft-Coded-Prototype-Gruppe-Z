@@ -1,0 +1,9 @@
+ISO 9241-110 Compliance:
+
+Suitability for the task: The form is straightforward and focused on the login task.
+Self-descriptiveness: Labels and placeholders are clear, and the form fields are appropriately labeled.
+Controllability: Users can easily navigate and control the form.
+Conformity with user expectations: The form follows common design patterns for login forms.
+Error tolerance: Required fields help prevent submission errors.
+Suitability for individualization: The form is responsive and adapts to different screen sizes.
+Suitability for learning: The form is simple and easy to understand, even for new users.
